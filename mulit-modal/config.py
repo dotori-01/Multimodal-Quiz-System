@@ -1,0 +1,1 @@
+BACKEND_URL = "http://localhost:8080"  # 백엔드 API URL
