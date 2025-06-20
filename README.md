@@ -11,7 +11,8 @@
 - [5. 웹 실행 방법](#5-웹-실행-방법)
    - [5.1 Server 폴더](#51-server)
    - [5.2 Multi-modal 폴더](#52-Multi-modal)
-- [6. 팀원 및 역할 분담](#6-팀원-및-역할-분담)
+- [6. 사용자 가이드](#6-사용자-가이드)
+- [7. 팀원 및 역할 분담](#7-팀원-및-역할-분담)
 
 
 ## 1. 프로젝트 소개
@@ -94,8 +95,7 @@
 
 https://github.com/dotori-01/Multimodal-Quiz-System/blob/main/multi-modal/deployment-guide.md 를 참고하세요.
 
- 📖 사용자 가이드
- ### 사용방법
+ ## 6. 사용자 가이드
 1. 메인 화면에서 Browse files를 클릭합니다.
    
 ![image](https://github.com/user-attachments/assets/094de4ff-1fd6-4389-970c-c2c2e1dd65e1)
@@ -132,7 +132,7 @@ https://github.com/dotori-01/Multimodal-Quiz-System/blob/main/multi-modal/deploy
 
 프로젝트의 자세한 사용법은 [(https://github.com/dotori-01/Multimodal-Quiz-System/blob/main/multi-modal/user-guide.md)](https://github.com/dotori-01/Multimodal-Quiz-System/blob/main/multi-modal/user-guide.md) 를 참고하세요.
 
-## 6. 팀원 및 역할 분담
+## 7. 팀원 및 역할 분담
 | 역할 | 담당자 | 주요 업무 | 진행 상황 |
 |------|--------|-----------|----------|
 | 🎯 프로젝트 관리/발표 | 20210015 도현명 | 전체 일정 관리, GitHub 구조화, 발표 자료 제작 | 진행중 |
