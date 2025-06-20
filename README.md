@@ -25,6 +25,7 @@
     - 🎯 **다양한 형태**: 객관식, 주관식, 서술형 퀴즈 지원
 
 ## 3. 아키텍처 다이어그램
+
 ![image](https://github.com/user-attachments/assets/f9676181-109a-49ac-a2c7-62f114cee7e7)
 
 ## 4. 기술 스택
@@ -41,7 +42,7 @@
 
 ![image](https://github.com/user-attachments/assets/a75a9683-09b6-4e7f-84c2-cb928cf95444)
 
-#### 2) 필요한 패키지 설치
+#### 2) 의존성 패키지 설치
 
 ![image](https://github.com/user-attachments/assets/09eb770b-057d-4d61-9857-ce3cab11e039)
 
@@ -50,8 +51,19 @@
 ![image](https://github.com/user-attachments/assets/15fa2293-7627-45cf-9bfb-d9e64eb613e3)
 
 ### 5.2 Multi-modal 
-## 6. 프로젝트 파일 구조
+#### 1) 가상환경 설정
 
+![image](https://github.com/user-attachments/assets/f067b9aa-29c9-4b97-8c4b-bc3d853fad8e)
+
+#### 2) 의존성 패키지 설치
+
+![image](https://github.com/user-attachments/assets/f466783d-bdc4-4200-9ceb-300b1bfa6396)
+
+#### 3) Streamlit 실행 및 웹 브라우저 자동 연결
+
+![image](https://github.com/user-attachments/assets/e2f4261e-b83f-404e-bb67-c0d896314ae6)
+
+## 6. 프로젝트 파일 구조
 
 
 ## 7. 팀원 및 역할 분담
