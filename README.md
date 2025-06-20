@@ -70,13 +70,14 @@
       pip install -r requirements.txt
 ![image](https://github.com/user-attachments/assets/f466783d-bdc4-4200-9ceb-300b1bfa6396)
 
-#### 4) Streamlit 실행 및 웹 브라우저 자동 연결
+#### 4) Streamlit 실행
 - 아래 명령어로 Streamlit 실행
 
       streamlit run app.py 
 ![image](https://github.com/user-attachments/assets/e2f4261e-b83f-404e-bb67-c0d896314ae6)
+- 웹 브라우저 자동 연결
+![image](https://github.com/user-attachments/assets/0552c98f-9770-4051-9081-95168d4edef2)
 
-![image](https://github.com/user-attachments/assets/2ed929c9-8dce-48d0-9f9b-63975b815c18)
 
 
 ## 6. 프로젝트 파일 구조
