@@ -80,7 +80,7 @@
   
 ![image](https://github.com/user-attachments/assets/0552c98f-9770-4051-9081-95168d4edef2)
 
-## 📖 사용자 가이드
+ 📖 사용자 가이드
 
 프로젝트의 자세한 사용법은 (https://github.com/dotori-01/Multimodal-Quiz-System/blob/main/multi-modal/user-guide.md) 파일을 참고하세요.
 
