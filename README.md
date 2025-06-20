@@ -41,6 +41,8 @@
 ## 5. 웹 실행 방법
 ### 5.1 Server
 #### 1) 개발 환경 설정
+- 아래 명령어로 설정
+
       .\venv\Scripts\activate
 
 ![image](https://github.com/user-attachments/assets/a75a9683-09b6-4e7f-84c2-cb928cf95444)
@@ -76,8 +78,6 @@
 ![image](https://github.com/user-attachments/assets/f466783d-bdc4-4200-9ceb-300b1bfa6396)
 
 #### 4) Streamlit 실행
-- 아래 명령어로 Streamlit 실행
-
       streamlit run app.py
   
 ![image](https://github.com/user-attachments/assets/e2f4261e-b83f-404e-bb67-c0d896314ae6)
