@@ -32,10 +32,10 @@
 ## 4. 기술 스택
 - **Frontend**: Streamlit
 - **Backend**: Flask/FastAPI
-- **Database**: Firebase
+- **Database**: Firebase (LLM을 통해 나온 내용을 실시간으로 FireBase에 저장)
 - **AI Models**: 
-  - VLM: GPT-4o (이미지 분석)
-  - LLM: GPT API (퀴즈 생성)
+  - VLM: GPT-4o (이미지를 분석하여 키워드 추출)
+  - LLM: GPT-4 (분석한 키워드 주제로 0/X 퀴즈 생성)
  
 ## 5. 실행 방법
 ### 5.1 Server 폴더
@@ -80,7 +80,22 @@
 
 
 ## 6. 프로젝트 파일 구조
-
+### 6.1 Server 폴더
+### api/
+`answer_checker.py`: 정답인지 아닌지를 체크한다.<br>
+`quiz_maker.py`: VLM -> LLM 으로 퀴즈를 생성한다.<br>
+`answer_get.py`: id를 통해서 저장된 퀴즈를 가져온다.<br>
+### DataBase/
+`firebase.py`: Firebase를 초기화 한다.<br>
+`firebase-key.json`: 파이어베이스 키를 저장한다.<br>
+### venv/
+가상환경이 설정된 폴더다.
+### myopenai/
+`ChatTest.py`: GPT-4 연결, 퀴즈 생성<br>
+`apikey.env`: api 키 저장 -> 깃허브 업로드 금지<br>
+### vlm_myopenai
+`GptVision.py`: GPT-4o 연결, 이미지 읽고 키워드 생성<br>
+`apikey.env`: api 키 저장<br>
 
 ## 7. 팀원 및 역할 분담
 | 역할 | 담당자 | 주요 업무 | 진행 상황 |
