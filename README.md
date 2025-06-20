@@ -10,10 +10,8 @@
 - [4. 기술 스택](#4-기술-스택)
 - [5. 웹 실행 방법](#5-웹-실행-방법)
    - [5.1 Server 폴더](#51-server)
-   - [2.1 Multi-modal 폴더](#52-Multi-modal)
-- [6. 파일 구조](#6-파일-구조)
-    - [6.1 Server 폴더](#61-server-폴더)
-- [7. 팀원 및 역할 분담](#7-팀원-및-역할-분담)
+   - [5.2 Multi-modal 폴더](#52-Multi-modal)
+- [6. 팀원 및 역할 분담](#6-팀원-및-역할-분담)
 
 
 ## 1. 프로젝트 소개
@@ -92,31 +90,9 @@
 
  📖 사용자 가이드
 
-프로젝트의 자세한 사용법은 (https://github.com/dotori-01/Multimodal-Quiz-System/blob/main/multi-modal/user-guide.md)을 참고하세요.
+프로젝트의 자세한 사용법은 [(https://github.com/dotori-01/Multimodal-Quiz-System/blob/main/multi-modal/user-guide.md)](https://github.com/dotori-01/Multimodal-Quiz-System/blob/main/multi-modal/user-guide.md)을 참고하세요.
 
-
-## 6. 파일 구조
-### 6.1 Server 폴더
-### api/
-`answer_checker.py`: 정답인지 아닌지를 체크한다.<br>
-`quiz_maker.py`: VLM -> LLM 으로 퀴즈를 생성한다.<br>
-`answer_get.py`: id를 통해서 저장된 퀴즈를 가져온다.<br>
-### DataBase/
-`firebase.py`: Firebase를 초기화 한다.<br>
-`firebase-key.json`: 파이어베이스 키를 저장한다.<br>
-### venv/
-가상환경이 설정된 폴더다.
-### myopenai/
-`ChatTest.py`: GPT-4 연결, 퀴즈 생성<br>
-`apikey.env`: api 키 저장 -> 깃허브 업로드 금지<br>
-### vlm_myopenai
-`GptVision.py`: GPT-4o 연결, 이미지 읽고 키워드 생성<br>
-`apikey.env`: api 키 저장<br>
-
-
-
-
-## 7. 팀원 및 역할 분담
+## 6. 팀원 및 역할 분담
 | 역할 | 담당자 | 주요 업무 | 진행 상황 |
 |------|--------|-----------|----------|
 | 🎯 프로젝트 관리/발표 | 20210015 도현명 | 전체 일정 관리, GitHub 구조화, 발표 자료 제작 | 진행중 |
