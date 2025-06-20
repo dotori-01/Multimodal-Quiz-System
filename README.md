@@ -37,11 +37,16 @@ LLM(Large Language Model)이 이를 바탕으로 다양한 형태의 퀴즈를 �
  
 ## 5. 실행 방법
 ### 5.1 Server 
-1)환경설정 활성화
+#### 1) 환경설정 활성화
+
 ![image](https://github.com/user-attachments/assets/a75a9683-09b6-4e7f-84c2-cb928cf95444)
-2)필요한 패키지 설치
+
+#### 2) 필요한 패키지 설치
+
 ![image](https://github.com/user-attachments/assets/09eb770b-057d-4d61-9857-ce3cab11e039)
-서버 연결
+
+#### 3) 서버 연결
+
 ![image](https://github.com/user-attachments/assets/15fa2293-7627-45cf-9bfb-d9e64eb613e3)
 
 ### 5.2 Multi-modal 
