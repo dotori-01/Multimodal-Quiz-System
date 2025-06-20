@@ -57,6 +57,9 @@
       
 ![image](https://github.com/user-attachments/assets/15fa2293-7627-45cf-9bfb-d9e64eb613e3)
 
+
+- 자세한 사용법은 https://github.com/dotori-01/Multimodal-Quiz-System/blob/main/Server/deployment-guide.md
+
 ### 5.2 Multi-modal
 
 #### 1) phython 설치 
