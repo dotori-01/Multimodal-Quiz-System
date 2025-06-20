@@ -135,6 +135,11 @@ https://github.com/dotori-01/Multimodal-Quiz-System/blob/main/multi-modal/deploy
 
 [(https://github.com/dotori-01/Multimodal-Quiz-System/blob/main/multi-modal/user-guide.md)](https://github.com/dotori-01/Multimodal-Quiz-System/blob/main/multi-modal/user-guide.md) 를 참고하세요.
 
+
+## 7. Api 명세서 
+
+
+
 ## 7. 팀원 및 역할 분담 (팀 5)
 | 역할 | 담당자 | 주요 업무 | 진행 상황 |
 |------|--------|-----------|----------|
