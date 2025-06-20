@@ -12,7 +12,8 @@
    - [5.1 Server 폴더](#51-server-폴더)
    - [5.2 Multi-modal 폴더](#52-Multi-modal-폴더)
 - [6. 사용자 가이드](#6-사용자-가이드)
-- [7. 팀원 및 역할 분담 (팀 5)](#7-팀원-및-역할-분담-팀-5)
+- [7. api 명세서](#7-api-명세서)
+- [8. 팀원 및 역할 분담 (팀 5)](#8-팀원-및-역할-분담-팀-5)
 
 
 ## 1. 프로젝트 소개
@@ -140,7 +141,7 @@ https://github.com/dotori-01/Multimodal-Quiz-System/blob/main/multi-modal/deploy
 https://github.com/dotori-01/Multimodal-Quiz-System/blob/main/Server/api-documentation.md 를 참고하세요.
 
 
-## 7. 팀원 및 역할 분담 (팀 5)
+## 8. 팀원 및 역할 분담 (팀 5)
 | 역할 | 담당자 | 주요 업무 | 진행 상황 |
 |------|--------|-----------|----------|
 | 🎯 프로젝트 총괄 | 20210015 도현명 | 전체 일정 관리, GitHub 구조화, 발표 자료 제작 | ✅ 완료 |
