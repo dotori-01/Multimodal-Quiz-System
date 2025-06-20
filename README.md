@@ -58,7 +58,7 @@
 ![image](https://github.com/user-attachments/assets/15fa2293-7627-45cf-9bfb-d9e64eb613e3)
 
 
-- 자세한 사용법은 https://github.com/dotori-01/Multimodal-Quiz-System/blob/main/Server/deployment-guide.md
+- 자세한 deployment-guide.md는 https://github.com/dotori-01/Multimodal-Quiz-System/blob/main/Server/deployment-guide.md 
 
 ### 5.2 Multi-modal
 
@@ -87,6 +87,8 @@
 - 웹 브라우저 자동 연결
   
 ![image](https://github.com/user-attachments/assets/0552c98f-9770-4051-9081-95168d4edef2)
+
+자세한 
 
  📖 사용자 가이드
 
