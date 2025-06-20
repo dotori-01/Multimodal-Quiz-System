@@ -45,7 +45,7 @@ LLM(Large Language Model)이 이를 바탕으로 다양한 형태의 퀴즈를 �
     git commit -m "Initial commit: 멀티모달 퀴즈 시스템 프로젝트 초기 설정"
 
 # 원격 저장소 연결
-    git remote add origin https://github.com/[username]/multimodal-quiz-system.git
+    git remote add origin https://github.com/dotori-01/multimodal-quiz-system.git
 
 # GitHub에 업로드
     git push -u origin main
