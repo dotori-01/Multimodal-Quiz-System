@@ -30,12 +30,12 @@
 
 
 ## 4. 기술 스택
-    - **Frontend**: Streamlit
-    - **Backend**: Flask/FastAPI
-    - **Database**: Firebase
-    - **AI Models**: 
-      - VLM: GPT-4o (이미지 분석)
-      - LLM: GPT API (퀴즈 생성)
+- **Frontend**: Streamlit
+- **Backend**: Flask/FastAPI
+- **Database**: Firebase
+- **AI Models**: 
+  - VLM: GPT-4o (이미지 분석)
+  - LLM: GPT API (퀴즈 생성)
  
 ## 5. 실행 방법
 ### 5.1 Server 폴더
