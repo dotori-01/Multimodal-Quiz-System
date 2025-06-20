@@ -108,14 +108,16 @@ https://github.com/dotori-01/Multimodal-Quiz-System/blob/main/multi-modal/deploy
 
 3. 이미지가 업로드되면 자동 퀴즈 생성됩니다.
    
-![image](https://github.com/user-attachments/assets/952352cb-8b9f-4727-89e2-fe3ccb9ccb0e)
+![image](https://github.com/user-attachments/assets/d5c69fe6-89f2-4542-b92a-313f3c18b5ee)
+
 
 
 
 ### 추가기능
 1. 전체 정답 제출 및 결과확인
    
-![4](https://github.com/user-attachments/assets/197dfd8e-8e97-4e13-841b-9a483266446e)
+![4](https://github.com/user-attachments/assets/9ce7ba60-c55f-4936-a73b-020cf53027e2)
+
 
 2. 정답 결과 다운로드 (.txt)
 
