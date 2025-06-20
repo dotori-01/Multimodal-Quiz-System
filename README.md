@@ -98,7 +98,8 @@ https://github.com/dotori-01/Multimodal-Quiz-System/blob/main/multi-modal/deploy
  ### 사용방법
 1. 메인 화면에서 Browse files를 클릭합니다.
    
-![메인화면](https://github.com/user-attachments/assets/c5eb398f-1e7e-4ffe-85bd-f343aefccf74)
+![image](https://github.com/user-attachments/assets/094de4ff-1fd6-4389-970c-c2c2e1dd65e1)
+
 
 2. 퀴즈 생성 하고싶은 이미지를 선택해 업로드합니다.
 
