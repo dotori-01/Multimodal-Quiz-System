@@ -19,6 +19,9 @@ LLM(Large Language Model)이 이를 바탕으로 다양한 형태의 퀴즈를 �
 - 📊 **실시간 피드백**: 즉석 정답 확인 및 학습 효과 분석
 - 🎯 **다양한 형태**: 객관식, 주관식, 서술형 퀴즈 지원
 
+## 아킥텍처 다이어그램 
+![image](https://github.com/user-attachments/assets/f9676181-109a-49ac-a2c7-62f114cee7e7)
+
 ## 🛠️ 기술 스택
 - **Frontend**: Streamlit
 - **Backend**: Flask/FastAPI
@@ -37,4 +40,5 @@ LLM(Large Language Model)이 이를 바탕으로 다양한 형태의 퀴즈를 �
 | 🧠 LLM 연동 | 20231386 성원제 | 퀴즈 생성 모듈 개발 | ✅ 완료 |
 | 🔍 QA/테스트 | 20210428 장지원 | 품질 보증 및 시연 준비 | ⏳ 대기중 |
 
-## 1.3  
+## 1.3 실행방법 
+
