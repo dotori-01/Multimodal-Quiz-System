@@ -59,6 +59,8 @@
 
 
 자세한 deployment-guide는 
+
+
 (https://github.com/dotori-01/Multimodal-Quiz-System/blob/main/Server/deployment-guide.md) 를 참고하세요.
 
 ### 5.2 Multi-modal
@@ -87,7 +89,9 @@
   
 ![image](https://github.com/user-attachments/assets/0552c98f-9770-4051-9081-95168d4edef2)
 
-자세한 multi-modal-deployment-guide는 
+자세한 multi-modal-deployment-guide는
+
+
 https://github.com/dotori-01/Multimodal-Quiz-System/blob/main/multi-modal/deployment-guide.md 를 참고하세요.
 
  📖 사용자 가이드
