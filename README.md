@@ -88,7 +88,7 @@
   
 ![image](https://github.com/user-attachments/assets/0552c98f-9770-4051-9081-95168d4edef2)
 
-자세한 
+자세한 multi-modal-deployment-guide.md는 
 
  📖 사용자 가이드
 
