@@ -38,7 +38,7 @@
       - LLM: GPT API (퀴즈 생성)
  
 ## 5. 실행 방법
-### 5.1 Server 
+### 5.1 Server 폴더
 #### 1) 환경설정 활성화
 
 ![image](https://github.com/user-attachments/assets/a75a9683-09b6-4e7f-84c2-cb928cf95444)
@@ -51,21 +51,26 @@
 
 ![image](https://github.com/user-attachments/assets/15fa2293-7627-45cf-9bfb-d9e64eb613e3)
 
-### 5.2 Multi-modal 
-#### 1) 가상환경 설정
-- 명령 프롬포트(cmd)에서 아래 명령어를 입력
+### 5.2 Multi-modal 폴더
+
+#### 1) phython 설치 
+- python 버전 3.8 이상이 설치되어 있어야 한다
+* 만약 설치되어 있지 않다면 [Python 공식 홈페이지](https://www.python.org/downloads/)에서 다운로드 후 설치한다
+
+#### 2) 가상환경 설정
+- 아래 명령어로 가상환경 설정
 
       python -m venv venv
       venv\Scripts\activate
 ![image](https://github.com/user-attachments/assets/f067b9aa-29c9-4b97-8c4b-bc3d853fad8e)
 
-#### 2) 의존성 패키지 설치
+#### 3) 의존성 패키지 설치
 - 아래 명령어로 필요한 패키지를 설치
   
       pip install -r requirements.txt
 ![image](https://github.com/user-attachments/assets/f466783d-bdc4-4200-9ceb-300b1bfa6396)
 
-#### 3) Streamlit 실행 및 웹 브라우저 자동 연결
+#### 4) Streamlit 실행 및 웹 브라우저 자동 연결
 - 아래 명령어로 Streamlit 실행
 
       streamlit run app.py 
