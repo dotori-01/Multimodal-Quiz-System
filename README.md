@@ -35,8 +35,8 @@ LLM(Large Language Model)이 이를 바탕으로 다양한 형태의 퀴즈를 �
   - VLM: GPT-4o (이미지 분석)
   - LLM: GPT API (퀴즈 생성)
  
-## 5. 실행 방법 및 사용자 가이드
-
+## 5. 실행 방법
+### 5.1 Server 
 
 
 ## 6. 프로젝트 파일 구조
