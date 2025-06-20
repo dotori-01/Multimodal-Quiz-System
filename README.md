@@ -82,7 +82,7 @@
 
 ## 📖 사용자 가이드
 
-프로젝트의 자세한 사용법은 [[user-guide.md](user-guide.md)](https://github.com/dotori-01/Multimodal-Quiz-System/blob/main/multi-modal/user-guide.md) 파일을 참고하세요.
+프로젝트의 자세한 사용법은 (https://github.com/dotori-01/Multimodal-Quiz-System/blob/main/multi-modal/user-guide.md) 파일을 참고하세요.
 
 
 ## 6. 프로젝트 파일 구조
