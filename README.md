@@ -3,6 +3,11 @@
 
 # 멀티모달 퀴즈 생성 시스템
 
+## 목차
+ [1.1 프로젝트 소개](#11-프로젝트-소개)
+- [1.2 팀원-및-역할-분담](#12-팀원-및-역할-분담)
+
+
 ## 1.1 프로젝트 소개
 이미지와 텍스트를 입력받아 AI가 자동으로 퀴즈를 생성하는 멀티모달 시스템이다.
 VLM(Vision Language Model)이 이미지를 분석하여 키워드를 추출하고, 
@@ -32,20 +37,4 @@ LLM(Large Language Model)이 이를 바탕으로 다양한 형태의 퀴즈를 �
 | 🧠 LLM 연동 | 2023**** 성원제 | 퀴즈 생성 모듈 개발 | 🔄 진행중 |
 | 🔍 QA/테스트 | 2021**** 장지원 | 품질 보증 및 시연 준비 | ⏳ 대기중 |
 
-## 1.3  Git 초기 설정
-# Git 사용자 정보 설정 (최초 1회)
-    git config --global user.name "본인이름"
-    git config --global user.email "본인이메일"
-
-# 프로젝트 폴더로 이동 후 Git 초기화
-    git init
-
-# 파일 추가 및 커밋
-    git add .
-    git commit -m "Initial commit: 멀티모달 퀴즈 시스템 프로젝트 초기 설정"
-
-# 원격 저장소 연결
-    git remote add origin https://github.com/dotori-01/multimodal-quiz-system.git
-
-# GitHub에 업로드
-    git push -u origin main
+## 1.3  
