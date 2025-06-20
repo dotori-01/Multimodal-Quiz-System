@@ -77,6 +77,7 @@
 ![image](https://github.com/user-attachments/assets/e2f4261e-b83f-404e-bb67-c0d896314ae6)
 
 - 웹 브라우저 자동 연결
+  
 ![image](https://github.com/user-attachments/assets/0552c98f-9770-4051-9081-95168d4edef2)
 
 
