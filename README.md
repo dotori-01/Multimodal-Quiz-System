@@ -28,12 +28,12 @@
 ![image](https://github.com/user-attachments/assets/f9676181-109a-49ac-a2c7-62f114cee7e7)
 
 ## 4. 기술 스택
-- **Frontend**: Streamlit
-- **Backend**: Flask/FastAPI
-- **Database**: Firebase
-- **AI Models**: 
-  - VLM: GPT-4o (이미지 분석)
-  - LLM: GPT API (퀴즈 생성)
+    - **Frontend**: Streamlit
+    - **Backend**: Flask/FastAPI
+    - **Database**: Firebase
+    - **AI Models**: 
+      - VLM: GPT-4o (이미지 분석)
+      - LLM: GPT API (퀴즈 생성)
  
 ## 5. 실행 방법
 ### 5.1 Server 
