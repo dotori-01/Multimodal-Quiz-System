@@ -58,7 +58,7 @@
 ![image](https://github.com/user-attachments/assets/15fa2293-7627-45cf-9bfb-d9e64eb613e3)
 
 
-자세한 deployment-guide는 
+자세한 Server-deployment-guide 
 
 
 (https://github.com/dotori-01/Multimodal-Quiz-System/blob/main/Server/deployment-guide.md) 를 참고하세요.
@@ -89,14 +89,14 @@
   
 ![image](https://github.com/user-attachments/assets/0552c98f-9770-4051-9081-95168d4edef2)
 
-자세한 multi-modal-deployment-guide는
+- 자세한 multi-modal-deployment-guide
 
 
 https://github.com/dotori-01/Multimodal-Quiz-System/blob/main/multi-modal/deployment-guide.md 를 참고하세요.
 
  📖 사용자 가이드
 
-프로젝트의 자세한 사용법은 [(https://github.com/dotori-01/Multimodal-Quiz-System/blob/main/multi-modal/user-guide.md)](https://github.com/dotori-01/Multimodal-Quiz-System/blob/main/multi-modal/user-guide.md)을 참고하세요.
+프로젝트의 자세한 사용법은 [(https://github.com/dotori-01/Multimodal-Quiz-System/blob/main/multi-modal/user-guide.md)](https://github.com/dotori-01/Multimodal-Quiz-System/blob/main/multi-modal/user-guide.md) 를 참고하세요.
 
 ## 6. 팀원 및 역할 분담
 | 역할 | 담당자 | 주요 업무 | 진행 상황 |
