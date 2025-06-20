@@ -40,7 +40,7 @@
   - LLM: GPT-4 (분석한 키워드 주제로 0/X 퀴즈 생성)
  
 ## 5. 웹 실행 방법
-### 5.1 Server
+### 5.1 Server 폴더
 #### 1) 개발 환경 설정
 - 아래 명령어로 설정
 
@@ -64,7 +64,7 @@
 
 (https://github.com/dotori-01/Multimodal-Quiz-System/blob/main/Server/deployment-guide.md) 를 참고하세요.
 
-### 5.2 Multi-modal
+### 5.2 Multi-modal 폴더
 
 #### 1) phython 설치 
 - python 버전 3.8 이상이 설치되어 있어야 한다
