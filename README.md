@@ -113,7 +113,7 @@ https://github.com/dotori-01/Multimodal-Quiz-System/blob/main/multi-modal/deploy
 
 
 
-### 추가기능
+### ++추가기능
 1. 전체 정답 제출 및 결과확인
    
 ![4](https://github.com/user-attachments/assets/9ce7ba60-c55f-4936-a73b-020cf53027e2)
@@ -130,7 +130,10 @@ https://github.com/dotori-01/Multimodal-Quiz-System/blob/main/multi-modal/deploy
 
 
 
-프로젝트의 자세한 사용법은 [(https://github.com/dotori-01/Multimodal-Quiz-System/blob/main/multi-modal/user-guide.md)](https://github.com/dotori-01/Multimodal-Quiz-System/blob/main/multi-modal/user-guide.md) 를 참고하세요.
+프로젝트의 자세한 사용법
+
+
+[(https://github.com/dotori-01/Multimodal-Quiz-System/blob/main/multi-modal/user-guide.md)](https://github.com/dotori-01/Multimodal-Quiz-System/blob/main/multi-modal/user-guide.md) 를 참고하세요.
 
 ## 7. 팀원 및 역할 분담
 | 역할 | 담당자 | 주요 업무 | 진행 상황 |
