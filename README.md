@@ -40,9 +40,7 @@
 ## 5. 실행 방법
 ### 5.1 Server 
 #### 1) 환경설정 활성화
-- 아래 명령어로 필요한 패키지를 설치
-  
-      pip install -r requirements.txt
+
 ![image](https://github.com/user-attachments/assets/a75a9683-09b6-4e7f-84c2-cb928cf95444)
 
 #### 2) 의존성 패키지 설치
@@ -55,15 +53,22 @@
 
 ### 5.2 Multi-modal 
 #### 1) 가상환경 설정
+- 명령 프롬포트(cmd)에서 아래 명령어를 입력
 
+      python -m venv venv
+      venv\Scripts\activate
 ![image](https://github.com/user-attachments/assets/f067b9aa-29c9-4b97-8c4b-bc3d853fad8e)
 
 #### 2) 의존성 패키지 설치
-
+- 아래 명령어로 필요한 패키지를 설치
+  
+      pip install -r requirements.txt
 ![image](https://github.com/user-attachments/assets/f466783d-bdc4-4200-9ceb-300b1bfa6396)
 
 #### 3) Streamlit 실행 및 웹 브라우저 자동 연결
+- 아래 명령어로 Streamlit 실행
 
+      streamlit run app.py 
 ![image](https://github.com/user-attachments/assets/e2f4261e-b83f-404e-bb67-c0d896314ae6)
 
 ![image](https://github.com/user-attachments/assets/2ed929c9-8dce-48d0-9f9b-63975b815c18)
