@@ -26,7 +26,8 @@
 
 ## 3. 아키텍처 다이어그램
 
-![image](https://github.com/user-attachments/assets/f9676181-109a-49ac-a2c7-62f114cee7e7)
+![image](https://github.com/user-attachments/assets/ac70505a-43c4-43bc-bb56-828d324cbd7a)
+
 
 ## 4. 기술 스택
     - **Frontend**: Streamlit
