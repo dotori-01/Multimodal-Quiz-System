@@ -40,7 +40,8 @@
 ## 5. 실행 방법
 ### 5.1 Server 
 #### 1) 환경설정 활성화
-
+    - 아래 명령어로 필요한 패키지를 설치
+      pip install -r requirements.txt
 ![image](https://github.com/user-attachments/assets/a75a9683-09b6-4e7f-84c2-cb928cf95444)
 
 #### 2) 의존성 패키지 설치
