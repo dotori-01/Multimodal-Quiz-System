@@ -59,7 +59,7 @@
 ![image](https://github.com/user-attachments/assets/15fa2293-7627-45cf-9bfb-d9e64eb613e3)
 
 
-자세한 Server-deployment-guide 
+- 자세한 Server-deployment-guide 
 
 
 (https://github.com/dotori-01/Multimodal-Quiz-System/blob/main/Server/deployment-guide.md) 를 참고하세요.
@@ -130,7 +130,7 @@ https://github.com/dotori-01/Multimodal-Quiz-System/blob/main/multi-modal/deploy
 
 
 
-프로젝트의 자세한 사용법
+- 프로젝트의 자세한 사용법
 
 
 [(https://github.com/dotori-01/Multimodal-Quiz-System/blob/main/multi-modal/user-guide.md)](https://github.com/dotori-01/Multimodal-Quiz-System/blob/main/multi-modal/user-guide.md) 를 참고하세요.
