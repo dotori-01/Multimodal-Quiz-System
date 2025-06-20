@@ -96,17 +96,17 @@
 https://github.com/dotori-01/Multimodal-Quiz-System/blob/main/multi-modal/deployment-guide.md 를 참고하세요.
 
  ## 6. 사용자 가이드
-### 1. 메인 화면에서 Browse files를 클릭합니다.
+### 1) 메인 화면에서 Browse files를 클릭합니다.
    
 ![image](https://github.com/user-attachments/assets/094de4ff-1fd6-4389-970c-c2c2e1dd65e1)
 
 
-### 2. 퀴즈 생성 하고싶은 이미지를 선택해 업로드합니다.
+### 2) 퀴즈 생성 하고싶은 이미지를 선택해 업로드합니다.
 
 ![image](https://github.com/user-attachments/assets/0172369a-fdc3-45ef-8080-b711da9cae78)
 
 
-### 3. 이미지가 업로드되면 자동 퀴즈 생성됩니다.
+### 3) 이미지가 업로드되면 자동 퀴즈 생성됩니다.
    
 ![image](https://github.com/user-attachments/assets/d5c69fe6-89f2-4542-b92a-313f3c18b5ee)
 
@@ -114,12 +114,12 @@ https://github.com/dotori-01/Multimodal-Quiz-System/blob/main/multi-modal/deploy
 
 
 ### ++추가기능
-#### 1. 전체 정답 제출 및 결과확인
+#### 1) 전체 정답 제출 및 결과확인
    
 ![4](https://github.com/user-attachments/assets/9ce7ba60-c55f-4936-a73b-020cf53027e2)
 
 
-#### ㅍ2. 정답 결과 다운로드 (.txt)
+#### 2) 정답 결과 다운로드 (.txt)
 
    
 ![5](https://github.com/user-attachments/assets/9ce4d59f-4a84-4a68-8009-dcd7afda4c0f)
