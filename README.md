@@ -9,8 +9,8 @@
 - [3. 아키텍처 다이어그램](#3-아키텍처-다이어그램)
 - [4. 기술 스택](#4-기술-스택)
 - [5. 웹 실행 방법](#5-웹-실행-방법)
-   - [5.1 Server 폴더](#51-server-폴더)
-   - [2.1 Multi-modal 폴더](#52-Multi-modal-폴더)
+   - [5.1 Server 폴더](#51-server)
+   - [2.1 Multi-modal 폴더](#52-Multi-modal)
 - [6. 파일 구조](#6-파일-구조)
     - [6.1 Server 폴더](#61-server-폴더)
 - [7. 팀원 및 역할 분담](#7-팀원-및-역할-분담)
@@ -41,7 +41,7 @@
   - LLM: GPT-4 (분석한 키워드 주제로 0/X 퀴즈 생성)
  
 ## 5. 웹 실행 방법
-### 5.1 Server 폴더
+### 5.1 Server
 #### 1) 환경설정 활성화
 
 ![image](https://github.com/user-attachments/assets/a75a9683-09b6-4e7f-84c2-cb928cf95444)
@@ -54,7 +54,7 @@
 
 ![image](https://github.com/user-attachments/assets/15fa2293-7627-45cf-9bfb-d9e64eb613e3)
 
-### 5.2 Multi-modal 폴더
+### 5.2 Multi-modal
 
 #### 1) phython 설치 
 - python 버전 3.8 이상이 설치되어 있어야 한다
