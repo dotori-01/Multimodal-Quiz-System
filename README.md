@@ -63,6 +63,9 @@
 
 ![image](https://github.com/user-attachments/assets/e2f4261e-b83f-404e-bb67-c0d896314ae6)
 
+![image](https://github.com/user-attachments/assets/2ed929c9-8dce-48d0-9f9b-63975b815c18)
+
+
 ## 6. 프로젝트 파일 구조
 
 
