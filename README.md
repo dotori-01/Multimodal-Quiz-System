@@ -44,6 +44,7 @@
 ### 5.1 Server
 #### 1) 환경설정 활성화
 
+
 ![image](https://github.com/user-attachments/assets/a75a9683-09b6-4e7f-84c2-cb928cf95444)
 
 #### 2) 의존성 패키지 설치
