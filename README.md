@@ -108,7 +108,8 @@ https://github.com/dotori-01/Multimodal-Quiz-System/blob/main/multi-modal/deploy
 
 3. 이미지가 업로드되면 자동 퀴즈 생성됩니다.
    
-![image](https://github.com/user-attachments/assets/0a5dcd34-1635-4e42-934a-5bc986bee891)
+![image](https://github.com/user-attachments/assets/952352cb-8b9f-4727-89e2-fe3ccb9ccb0e)
+
 
 
 ### 추가기능
