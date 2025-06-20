@@ -1,6 +1,7 @@
 #BackEnd env
 *.env
 __pycache__
+apikey.env
 # 가상환경
 venv/
 .venv/
