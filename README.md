@@ -35,12 +35,13 @@
 
 
 ## 4. 기술 스택
-- **Frontend**: Streamlit
-- **Backend**: Flask/FastAPI
-- **Database**: Firebase (LLM을 통해 나온 내용을 실시간으로 FireBase에 저장)
-- **AI Models**: 
-  - VLM: GPT-4o (이미지를 분석하여 키워드 추출)
-  - LLM: GPT-4 (분석한 키워드 주제로 0/X 퀴즈 생성)
+| 🛠️ 분야       | 기술 및 설명                                                                 |
+|--------------|-----------------------------------------------------------------------------|
+| 🌐 Frontend  | Streamlit                                                                   |
+| 🖥️ Backend   | Flask / FastAPI                                                             |
+| 🗄️ Database  | Firebase (LLM을 통해 나온 내용을 실시간으로 FireBase에 저장)               |
+| 🤖 AI Models | VLM: GPT-4o (이미지를 분석하여 키워드 추출)                                |
+|              | LLM: GPT-4 (분석한 키워드 주제로 0/X 퀴즈 생성)                            |
 
  ## 5. 프로젝트 파일 구조
  
@@ -113,7 +114,7 @@
       
 ![image](https://github.com/user-attachments/assets/f466783d-bdc4-4200-9ceb-300b1bfa6396)
 
-#### 4) Streamlit 실행
+#### 4️⃣ Streamlit 실행
       streamlit run app.py
   
 ![image](https://github.com/user-attachments/assets/e2f4261e-b83f-404e-bb67-c0d896314ae6)
