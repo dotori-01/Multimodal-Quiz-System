@@ -42,19 +42,19 @@
  
 ## 5. 웹 실행 방법
 ### 5.1 Server 폴더
-#### 1) 개발 환경 설정
+#### 1️⃣  개발 환경 설정
 - 명령 프롬프트(cmd) 이용, 아래 명령어로 실행
 
       .\venv\Scripts\activate
 
 ![image](https://github.com/user-attachments/assets/a75a9683-09b6-4e7f-84c2-cb928cf95444)
 
-#### 2) 의존성 패키지 설치
+#### 2️⃣ 의존성 패키지 설치
       pip install -r requirements.txt
       
 ![image](https://github.com/user-attachments/assets/09eb770b-057d-4d61-9857-ce3cab11e039)
 
-#### 3) 서버 실행
+#### 3️⃣ 서버 실행
       uvicorn main:app --reload --port 8080
       
 ![image](https://github.com/user-attachments/assets/15fa2293-7627-45cf-9bfb-d9e64eb613e3)
@@ -67,17 +67,17 @@
 
 ### 5.2 Multi-modal 폴더
 
-#### 1) phython 설치 
+#### 1️⃣ phython 설치 
 - python 버전 3.8 이상이 설치되어 있어야 한다
 * 만약 설치되어 있지 않다면 [Python 공식 홈페이지](https://www.python.org/downloads/)에서 다운로드 후 설치한다
 
-#### 2) 가상환경 설정
+#### 2️⃣ 가상환경 설정
       python -m venv venv
       venv\Scripts\activate
       
 ![image](https://github.com/user-attachments/assets/f067b9aa-29c9-4b97-8c4b-bc3d853fad8e)
 
-#### 3) 의존성 패키지 설치
+#### 3️⃣ 의존성 패키지 설치
       pip install -r requirements.txt
       
 ![image](https://github.com/user-attachments/assets/f466783d-bdc4-4200-9ceb-300b1bfa6396)
