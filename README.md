@@ -162,13 +162,12 @@ https://github.com/dotori-01/Multimodal-Quiz-System/blob/main/multi-modal/deploy
 
 
 
-### + + 추가기능
-#### 1️⃣ 전체 정답 제출 및 결과확인
+### 4️⃣ 전체 정답 제출 및 결과 확인
    
 ![4](https://github.com/user-attachments/assets/9ce7ba60-c55f-4936-a73b-020cf53027e2)
 
 
-#### 2️⃣ 정답 결과 다운로드 (.txt)
+### 5️⃣ 정답 결과 다운로드 (.txt)
 
    
 ![5](https://github.com/user-attachments/assets/9ce4d59f-4a84-4a68-8009-dcd7afda4c0f)
