@@ -16,26 +16,28 @@
 - [8. api 명세서](#8-api-명세서)
 - [9. 팀원 및 역할 분담 (팀 5)](#9-팀원-및-역할-분담-팀-5)
 
-
+- - -
 ## 1. 프로젝트 소개
 ### 소프트웨어공학 팀 프로젝트 과제 [팀 5]
     이미지와 텍스트를 입력받아 AI가 자동으로 퀴즈를 생성하는 멀티모달 시스템입니다.
     VLM(Vision Language Model)이 이미지를 분석하여 키워드를 추출하고, 
     LLM(Large Language Model)이 이를 바탕으로 다양한 형태의 퀴즈를 자동 생성합니다.
+    
+- - -
 
 ## 2. 핵심 기능
 - 🖼️ **이미지 분석**: GPT-4o를 활용한 정확한 키워드 추출
 - 💬 **퀴즈 생성**: 맥락을 고려한 OX 퀴즈 자동 생성
 - 📊 **실시간 피드백**: 즉석 정답 확인 및 학습
 - ✅ **정답 확인**: 문제 정답 .txt 파일로 제공
+  
+- - -
 
 ## 3. 아키텍처 다이어그램
 
 ![image](https://github.com/user-attachments/assets/ac70505a-43c4-43bc-bb56-828d324cbd7a)
 
 - - -
-* * *
-_ _ _
 
 ## 4. 기술 스택
 | 🛠️ 분야       | 기술 및 설명                                                                 |
@@ -45,6 +47,8 @@ _ _ _
 | 🗄️ Database  | Firebase (LLM을 통해 나온 내용을 실시간으로 FireBase에 저장)               |
 | 🤖 AI Models | VLM: GPT-4o (이미지를 분석하여 키워드 추출)                                |
 |              | LLM: GPT-4 (분석한 키워드 주제로 0/X 퀴즈 생성)                            |
+
+- - -
 
  ## 5. 프로젝트 파일 구조
  
@@ -74,6 +78,7 @@ _ _ _
       │   ├── 📄 requirements          # 의존성 목록 (requirements.txt)
       │   └── 📄 user-guide            # 사용자 가이드 (Markdown)
 
+- - -
  
 ## 6. 웹 실행 방법
 ### 6.1 Server 폴더
@@ -99,7 +104,7 @@ _ _ _
 
 
 (https://github.com/dotori-01/Multimodal-Quiz-System/blob/main/Server/deployment-guide.md) 를 참고하세요.
-
+- - -
 ### 6.2 Multi-modal 폴더
 
 #### 1️⃣ phython 설치 
@@ -148,7 +153,6 @@ https://github.com/dotori-01/Multimodal-Quiz-System/blob/main/multi-modal/deploy
 
 
 
-
 ### + + 추가기능
 #### 1️⃣ 전체 정답 제출 및 결과확인
    
@@ -164,17 +168,17 @@ https://github.com/dotori-01/Multimodal-Quiz-System/blob/main/multi-modal/deploy
 ![6](https://github.com/user-attachments/assets/bd6135fc-1fbe-4d25-aff5-3185e3bfc273)
 
 
-
-
 - 프로젝트의 자세한 사용법
 
 
 [(https://github.com/dotori-01/Multimodal-Quiz-System/blob/main/multi-modal/user-guide.md)](https://github.com/dotori-01/Multimodal-Quiz-System/blob/main/multi-modal/user-guide.md) 를 참고하세요.
 
+- - -
 
 ## 8. Api 명세서 
 https://github.com/dotori-01/Multimodal-Quiz-System/blob/main/Server/api-documentation.md 를 참고하세요.
 
+- - -
 
 ## 9. 팀원 및 역할 분담 (팀 5)
 | 역할 | 담당자 | 주요 업무 | 진행 상황 |
