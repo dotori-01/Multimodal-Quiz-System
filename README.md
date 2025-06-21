@@ -85,17 +85,20 @@
 
       .\venv\Scripts\activate
 
-![image](https://github.com/user-attachments/assets/a75a9683-09b6-4e7f-84c2-cb928cf95444)
+![9 개발환경](https://github.com/user-attachments/assets/5eee471a-c80a-442b-a1fb-3cefa91badca)
+
 
 #### 2️⃣ 의존성 패키지 설치
       pip install -r requirements.txt
       
-![image](https://github.com/user-attachments/assets/09eb770b-057d-4d61-9857-ce3cab11e039)
+![10](https://github.com/user-attachments/assets/3dc068b5-d8e7-484c-93ed-b0af259130ba)
+
 
 #### 3️⃣ 서버 실행
       uvicorn main:app --reload --port 8080
       
-![image](https://github.com/user-attachments/assets/15fa2293-7627-45cf-9bfb-d9e64eb613e3)
+![11 서버실행](https://github.com/user-attachments/assets/32d30629-884b-4b89-9e9c-b2dd5828f41b)
+
 
 
 📖 자세한 Server-deployment-guide 
@@ -113,17 +116,22 @@
       python -m venv venv
       venv\Scripts\activate
       
-![image](https://github.com/user-attachments/assets/f067b9aa-29c9-4b97-8c4b-bc3d853fad8e)
+![12  가상환경](https://github.com/user-attachments/assets/c7d1b8a3-dbe6-471d-9d08-b2959b7d25df)
+
+
 
 #### 3️⃣ 의존성 패키지 설치
       pip install -r requirements.txt
       
-![image](https://github.com/user-attachments/assets/f466783d-bdc4-4200-9ceb-300b1bfa6396)
+![의존성 패키지 13](https://github.com/user-attachments/assets/6739db9c-4422-4def-9d3d-eaf8750fa207)
+
+
 
 #### 4️⃣ Streamlit 실행
       streamlit run app.py
   
-![image](https://github.com/user-attachments/assets/e2f4261e-b83f-404e-bb67-c0d896314ae6)
+![15 streamlit](https://github.com/user-attachments/assets/fadf4b33-1946-4bc0-ae35-957173599832)
+
 
 - 웹 브라우저 자동 연결
   
@@ -144,7 +152,8 @@ https://github.com/dotori-01/Multimodal-Quiz-System/blob/main/multi-modal/deploy
 
 ### 2️⃣ 퀴즈 생성 하고싶은 이미지를 선택해 업로드합니다.
 
-![image](https://github.com/user-attachments/assets/0172369a-fdc3-45ef-8080-b711da9cae78)
+![퀴즈 생성하고싶은이미지](https://github.com/user-attachments/assets/96ac0783-cb49-499f-8642-0f6a4a35b0c6)
+
 
 
 ### 3️⃣ 이미지가 업로드되면 자동 퀴즈 생성됩니다.
