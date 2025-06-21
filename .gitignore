@@ -1,11 +1,11 @@
-#BackEnd env
+# BackEnd env
 *.env
 __pycache__
 apikey.env
 # 가상환경
 venv/
 .venv/
-#API env
+# API env
 apikey.env
 # FireBase key
 gpt-quiz-db-firebase-adminsdk-fbsvc-e84673227c.json
