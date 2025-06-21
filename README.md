@@ -136,6 +136,8 @@
 
 https://github.com/dotori-01/Multimodal-Quiz-System/blob/main/multi-modal/deployment-guide.md 를 참고하세요.
 
+- - -
+
  ## 7. 사용자 가이드
 ### 1️⃣ 메인 화면에서 Browse files를 클릭합니다.
    
