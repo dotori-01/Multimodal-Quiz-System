@@ -8,7 +8,7 @@
 **`LLM(GPT-4)`**: 분석한 키워를 주제로 o/x 퀴즈 생성<br>
 **`FireBase(DB)`**: LLM을 통해 나온 내용을 실시간으로 FireBase에 저장<br>
 
-## 시스템 구현 구성도
+## 🪛 시스템 구현 구성도
 ![아키텍처](test/image/Gpt_Quiz_Architecture.png)
 
 ## 📂 프로젝트 구조
