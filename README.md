@@ -152,13 +152,14 @@ https://github.com/dotori-01/Multimodal-Quiz-System/blob/main/multi-modal/deploy
 
 ### 2️⃣ 퀴즈 생성 하고싶은 이미지를 선택해 업로드합니다.
 
-![퀴즈 생성하고싶은이미지](https://github.com/user-attachments/assets/96ac0783-cb49-499f-8642-0f6a4a35b0c6)
+![image](https://github.com/user-attachments/assets/5a75dcd2-af32-4c97-a9a0-14832308685c)
 
 
 
 ### 3️⃣ 이미지가 업로드되면 자동 퀴즈 생성됩니다.
    
-![image](https://github.com/user-attachments/assets/5a75dcd2-af32-4c97-a9a0-14832308685c)
+![image](https://github.com/user-attachments/assets/f85ca951-b0cb-4fba-b501-4d813937fd44)
+
 
 
 
