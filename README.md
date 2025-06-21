@@ -33,7 +33,7 @@
 
 ## 3. 아키텍처 다이어그램
 
-![image](https://github.com/user-attachments/assets/ac70505a-43c4-43bc-bb56-828d324cbd7a)
+![Gpt_Quiz drawio](https://github.com/user-attachments/assets/7f3b209f-f058-46a0-a429-b0830d5dbc90)
 
 - - -
 
