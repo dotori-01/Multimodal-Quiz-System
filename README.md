@@ -33,6 +33,9 @@
 
 ![image](https://github.com/user-attachments/assets/ac70505a-43c4-43bc-bb56-828d324cbd7a)
 
+- - -
+* * *
+_ _ _
 
 ## 4. 기술 스택
 | 🛠️ 분야       | 기술 및 설명                                                                 |
