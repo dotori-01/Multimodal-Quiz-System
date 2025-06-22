@@ -116,21 +116,24 @@
       python -m venv venv
       venv\Scripts\activate
       
-![12  가상환경](https://github.com/user-attachments/assets/c7d1b8a3-dbe6-471d-9d08-b2959b7d25df)
+![스크린샷 2025-06-21 062301](https://github.com/user-attachments/assets/18a86343-4bee-421c-9215-0bdb39bdc3f7)
+
 
 
 
 #### 3️⃣ 의존성 패키지 설치
       pip install -r requirements.txt
       
-![의존성 패키지 13](https://github.com/user-attachments/assets/6739db9c-4422-4def-9d3d-eaf8750fa207)
+![스크린샷 2025-06-21 062340](https://github.com/user-attachments/assets/1ab1093e-ba29-403f-a079-df77ae97dcdd)
+
 
 
 
 #### 4️⃣ Streamlit 실행
       streamlit run app.py
   
-![15 streamlit](https://github.com/user-attachments/assets/fadf4b33-1946-4bc0-ae35-957173599832)
+![스크린샷 2025-06-21 062453](https://github.com/user-attachments/assets/f2c2cdaa-f7a3-41de-b0eb-fe9889ac7504)
+
 
 
 - 웹 브라우저 자동 연결
